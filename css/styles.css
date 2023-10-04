@@ -57,7 +57,7 @@ box-shadow:
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.menu-item::after {
+.menu-link::after {
     content: '';
     display: block;
     position: absolute;
