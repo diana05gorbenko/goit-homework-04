@@ -54,7 +54,6 @@ box-shadow:
     gap: 40px;
     position: relative;
     color: #404bbf;
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .menu-link::after {
@@ -78,6 +77,7 @@ box-shadow:
     display: block;
     position: relative;
     color: #404bbf;
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .menu-link:hover,
