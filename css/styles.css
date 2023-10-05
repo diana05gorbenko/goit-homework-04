@@ -35,6 +35,7 @@ box-shadow:
     margin: 0 auto;
     padding: 0 15px;
     display: flex;
+    align-items: baseline;
 }
 
 .container-header {
@@ -381,4 +382,8 @@ body {
 
 .footer>.logo>.logo-span {
     color: #F4F4FD;
+}
+
+.footer-logo {
+    margin-right: 120px
 }
