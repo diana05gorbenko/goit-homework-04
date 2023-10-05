@@ -242,7 +242,14 @@ body {
     width: calc((100% - 72px) / 4);
 }
 
-
+.goals-page {
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    
+}
 
 /*Section three*/
 
