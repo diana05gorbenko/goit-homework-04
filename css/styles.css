@@ -313,6 +313,14 @@ body {
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
+.team-div {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    width: 40px;
+    height: 40px;
+}
+
 
 /*Section four*/
 /*our portfolio*/
