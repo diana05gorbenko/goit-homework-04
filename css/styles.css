@@ -34,7 +34,6 @@ box-shadow:
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    display: flex;
     align-items: baseline;
 }
 
@@ -64,6 +63,7 @@ box-shadow:
     left: 0;
     bottom: -1px;
     height: 4px;
+    width: 100x;
     background-color: #404bbf;
     border-radius: 2px;
 }
@@ -151,6 +151,7 @@ body {
     background-position: center;
     background-size: cover;
     max-width: 1440px;
+    margin: 0 auto;
     }
 }
 
